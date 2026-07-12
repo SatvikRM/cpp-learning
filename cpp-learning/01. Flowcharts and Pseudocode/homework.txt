@@ -1,0 +1,29 @@
+1.calculate simple intrest from Principal(P), Rate(R),Time(T)
+-> Input P R T
+SI=P*R*T/100
+Print SI
+Exit
+
+
+2.Given a person's age,find if they should get a driving license or not
+-> Input n
+If
+n<18
+Print They cant get driving license
+Else
+Print They can get driving license
+Exit
+
+
+3.Find the factorial of n
+-> Input n
+count=1,factorial=1
+while 
+count<=n
+factorial=factorial*count
+count+=1
+
+Print factorial
+Exit
+
+(got confused at 24th step,took help of gemini)

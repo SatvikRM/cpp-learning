@@ -1,0 +1,48 @@
+1.Pseudocode for finding minimun of two numbers.
+-> Input a b
+If a>b
+Print b
+Else
+Print a
+Exit
+
+
+2.Pseudocode for finding the given number is odd or even.
+-> Input n
+If n%2==0
+Print even
+Else
+Print odd
+Exit
+
+
+3.Pseudocode for sum of numbers from 1 to n 
+-> Input n
+count=1, sum=0
+while
+count<=n
+sum=sum+count
+count=count+1
+Print sum
+Exit
+
+(learnt that while statement is used instead of if when the condition is checked for many times..)
+(learnt thiss Pseudocode for first time)
+(learnt a shortcut
+instead of a=a+1, we can write a+=1 )
+
+4.Pseudocode to find whether the given number is prime or not.
+-> Input n
+i=2
+While 
+i<=n-1
+If n%i==0
+Print n is not a prime number 
+Exit
+Else 
+i+=1
+
+Print n is a prime number
+Exit
+
+(Felt complex for first time )
